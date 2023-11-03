@@ -20,3 +20,5 @@ for i in st:
         obc -= 1
     elif ord(i) == 1:
         print(True)
+
+        # test
